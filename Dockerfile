@@ -26,6 +26,3 @@ CMD (! ${ENABLE_TOR} || tor&) && python zeronet.py --ui_ip 0.0.0.0
 
 #Expose ports
 EXPOSE 43110 15441
-Source Repository
-  HelloZeroNet/ZeroNet
-click
